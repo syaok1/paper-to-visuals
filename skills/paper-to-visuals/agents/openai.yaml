@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文交互图解"
+  short_description: "将全篇论文制成交互式 HTML 导览，点击章节展开图解，并附同编号 Markdown 讲解"
+  default_prompt: "请用 $paper-to-visuals 为这篇论文制作中文 HTML 导览和配套 Markdown 讲解：首页展示 01–0n 全篇章节，点击展开更详尽的直观图解，保留阅读框架各小项并注明来源。"
